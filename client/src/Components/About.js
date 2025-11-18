@@ -1,7 +1,7 @@
 const About = () => {
   return (
     <div>
-      <b>Khaloud - student 2024</b>
+      <b>Khaloud - student 2025</b>
     </div>
   );
 };
